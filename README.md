@@ -15,6 +15,33 @@
 - **飞书同步**: 支持同步到飞书多维表格
 - **形态识别**: K线形态 + 趋势形态自动识别
 
+## 安装方式
+
+### 方式一：Claude Code Marketplace（推荐）
+
+在 Claude Code 中运行：
+```bash
+# 1. 添加 marketplace
+/plugin marketplace add EagleF6432614/stock-master
+
+# 2. 安装 skill
+/plugin install stock-master@stock-master-marketplace
+```
+
+安装后直接使用：
+```
+分析 AAPL 股票
+```
+
+### 方式二：手动安装
+
+将仓库克隆到 Claude skills 目录：
+```bash
+git clone https://github.com/EagleF6432614/stock-master.git ~/.claude/skills/stock-master
+```
+
+---
+
 ## 快速开始
 
 ### 1. 安装依赖

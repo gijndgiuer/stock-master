@@ -1,36 +1,20 @@
 {
-  "name": "stock-master",
+  "name": "stock-master-marketplace",
   "owner": {
     "name": "EagleF6432614",
     "github": "https://github.com/EagleF6432614/stock-master"
   },
-
   "metadata": {
-    "description": "综合性股票技术分析工具，小白友好。采用混合数据源架构（Yahoo Finance + Alpha Vantage MCP）",
-    "version": "3.5.0",
-    "language": "zh-CN",
-    "features": [
-      "技术指标计算 (RSI, MACD, KDJ, 布林带)",
-      "买卖信号生成",
-      "多股对比排名",
-      "K线/趋势形态识别",
-      "Excel 持仓管理",
-      "飞书多维表格同步"
-    ]
+    "description": "Stock Master - 小白友好的股票技术分析工具",
+    "version": "3.5.0"
   },
-
   "plugins": [
     {
-      "name": "stock-master-plugin",
-      "description": "综合性股票技术分析工具。采用混合数据源架构（Yahoo Finance实时数据 + Alpha Vantage MCP）。支持美股、港股、A股。提供技术指标分析、买卖信号、持仓管理、飞书同步等功能。",
+      "name": "stock-master",
+      "description": "综合性股票技术分析工具，小白友好。采用混合数据源架构（Yahoo Finance + Alpha Vantage MCP），提供技术指标分析、买卖信号、Excel持仓管理、飞书同步。支持美股、港股、A股。",
       "source": "./",
       "strict": false,
       "skills": ["./"]
     }
-  ],
-
-  "usage": {
-    "example_zh": "分析 AAPL 股票，用 RSI 和 MACD",
-    "example_en": "Analyze AAPL stock using RSI and MACD indicators"
-  }
+  ]
 }
