@@ -10,7 +10,7 @@
 
 - **小白友好**: 用通俗语言解释 RSI、MACD、KDJ 等指标
 - **混合数据源**: Yahoo Finance (实时) + Alpha Vantage MCP (专业指标)
-- **多市场支持**: 美股、港股、A股
+- **多市场支持**: 美股、港股、A股（接受导入Api)
 - **持仓管理**: Excel 表格管理，自动计算盈亏
 - **飞书同步**: 支持同步到飞书多维表格
 - **形态识别**: K线形态 + 趋势形态自动识别
@@ -201,3 +201,6 @@ MIT License - 详见 [LICENSE](LICENSE)
 ---
 
 如果觉得有用，请给个 Star ⭐ 支持一下！
+Any issue or requirements？ Please contact owner: 
+Tel:+86 183435153378
+Wechat: q10184177226
